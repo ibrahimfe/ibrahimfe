@@ -1,6 +1,6 @@
 # Who am I?
 
-Hi! My name is Ibrahim, and I am a driven and enthusiastic student at Sultan Ageng Tirtayasa University majoring in Informatics. I am currently learning [Python](www.python.org) as my second language. My first Language is [C++]. My passion for technology and computer science has led me to specialize in the areas of machine learning and data science.
+Hi! My name is Ibrahim, and I am a driven and enthusiastic student at Sultan Ageng Tirtayasa University majoring in Informatics. I am currently learning [Python](https://www.python.org) as my second language. My first Language is C++. My passion for technology and computer science has led me to specialize in the areas of machine learning and data science.
 ## My Background
 
 I am a well-rounded individual with a diverse background in the technology field. I completed my vocational high school education in Computer Network Engineering, which gave me a strong foundation in network design, implementation, and maintenance. During my time at Sultan Ageng Tirtayasa University, I have had the opportunity to work as an intern at the International Office, where I honed my skills in teamwork, communication, and problem-solving. Additionally, my participation in LKS ITNSA in Serang City helped me to develop my critical-thinking skills and achieve a second-place finish.
