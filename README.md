@@ -14,10 +14,8 @@ As I continue my journey in the field of technology, I am committed to staying u
 
 Welcome to my Github repository! Here, you will find a collection of projects and contributions that showcase my interests and goals. From machine learning algorithms to data analysis and visualization, I have a wide range of skills and interests that I am eager to share. Feel free to take a look around and leave any comments or feedback. I am always open to collaboration and learning from others in the community.
 
-- [Small Project](https://github.com/ibrahimfe/small_project)
-  - This is where i put my small and simple project that i have created.
-- [Project Kuliahh](https://github.com/ibrahimfe/project-kuliah)
-  - This is where i put my college project that i have made while in college, i will still updating this repository till 2026
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimfe&layout=compact&hide=html)](https://github.com/ibrahimfe/github-readme-stats) <br> <br>
+[![Ibrahim GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimfe&show_icons=true)](https://github.com/ibrahimfe/github-readme-stats) <br> <br>
 
 Thank you for visiting my Github page, and I look forward to connecting with you!
 
