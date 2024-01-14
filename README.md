@@ -1,24 +1,61 @@
-# Who am I?
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="300">
+  <div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=ibrahimfe&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-Hi! My name is Ibrahim, and I am a driven and enthusiastic student at Sultan Ageng Tirtayasa University majoring in Informatics. I am currently learning [Python](https://www.python.org) as my second language. My first Language is C++. My passion for technology and computer science has led me to specialize in the areas of machine learning and data science.
-## My Background
+---
 
-I am a well-rounded individual with a diverse background in the technology field. I completed my vocational high school education in Computer Network Engineering, which gave me a strong foundation in network design, implementation, and maintenance. During my time at Sultan Ageng Tirtayasa University, I have had the opportunity to work as an intern at the International Office, where I honed my skills in teamwork, communication, and problem-solving. Additionally, my participation in LKS ITNSA in Serang City helped me to develop my critical-thinking skills and achieve a second-place finish.
-## Skills and Interests
+### :man_technologist: About Me :
 
-I am a quick learner and love exploring new things in the world of technology and computer science. I have excellent communication skills and believe that they are essential for success in any field. I am always eager to learn and challenge myself, and I am passionate about making a positive impact on the world.
-## Goals and Aspirations
+I am a Cyber Security Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From Indonesia.
 
-As I continue my journey in the field of technology, I am committed to staying up-to-date with the latest advancements in machine learning and data science. I aim to become an expert in these areas and contribute to the open-source community by sharing my knowledge and insights. My ultimate goal is to make a difference in the world by using my skills and expertise to solve real-world problems.
-## My Github Repository
+- :mortar_board: I'm a student at Universitas Sultan Ageng Tirtayasa
+- :computer: Cloud Computing Fasilitator at Google Developer Student Clubs
+- :zap: In my free time i solve codewars and PicoCTF Challenges
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ibrahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibra-him-)
 
-Welcome to my Github repository! Here, you will find a collection of projects and contributions that showcase my interests and goals. From machine learning algorithms to data analysis and visualization, I have a wide range of skills and interests that I am eager to share. Feel free to take a look around and leave any comments or feedback. I am always open to collaboration and learning from others in the community.
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimfe&layout=compact&hide=html)](https://github.com/ibrahimfe/github-readme-stats) <br> <br>
-[![Ibrahim GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimfe&show_icons=true)](https://github.com/ibrahimfe/github-readme-stats) <br> <br>
+### :hammer_and_wrench: Languages and Tools :
 
-Thank you for visiting my Github page, and I look forward to connecting with you!
+<div align='center'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="C++" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="Dart" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" alt="Debian" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="Fedora" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" height="40">&nbsp;
 
+</div>
+<br>
+<div align='center'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" height="40">&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimfe)](https://git.io/streak-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimfe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ibrahim GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimfe&show_icons=true&theme=vision-friendly-dark)](https://github.com/ibrahimfe/github-readme-stats) <br> <br>
 
 <!--
 **ibrahimfe/ibrahimfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
